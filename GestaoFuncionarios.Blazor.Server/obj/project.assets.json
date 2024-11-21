@@ -9511,25 +9511,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Gabriel Dias\\.nuget\\packages\\": {},
+    "C:\\Users\\gabriel.dias\\.nuget\\packages\\": {},
     "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriel Dias\\source\\repos\\GestaoFuncionarios\\GestaoFuncionarios.Blazor.Server\\GestaoFuncionarios.Blazor.Server.csproj",
+      "projectUniqueName": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Blazor.Server\\GestaoFuncionarios.Blazor.Server.csproj",
       "projectName": "GestaoFuncionarios.Blazor.Server",
-      "projectPath": "C:\\Users\\Gabriel Dias\\source\\repos\\GestaoFuncionarios\\GestaoFuncionarios.Blazor.Server\\GestaoFuncionarios.Blazor.Server.csproj",
-      "packagesPath": "C:\\Users\\Gabriel Dias\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabriel Dias\\source\\repos\\GestaoFuncionarios\\GestaoFuncionarios.Blazor.Server\\obj\\",
+      "projectPath": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Blazor.Server\\GestaoFuncionarios.Blazor.Server.csproj",
+      "packagesPath": "C:\\Users\\gabriel.dias\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Blazor.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Gabriel Dias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gabriel.dias\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -9546,8 +9546,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Gabriel Dias\\source\\repos\\GestaoFuncionarios\\GestaoFuncionarios.Module\\GestaoFuncionarios.Module.csproj": {
-              "projectPath": "C:\\Users\\Gabriel Dias\\source\\repos\\GestaoFuncionarios\\GestaoFuncionarios.Module\\GestaoFuncionarios.Module.csproj"
+            "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Module\\GestaoFuncionarios.Module.csproj": {
+              "projectPath": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Module\\GestaoFuncionarios.Module.csproj"
             }
           }
         }

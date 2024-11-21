@@ -12,3 +12,18 @@ C:\Users\Gabriel Dias\source\repos\GestaoFuncionarios\GestaoFuncionarios.Module\
 C:\Users\Gabriel Dias\source\repos\GestaoFuncionarios\GestaoFuncionarios.Module\obj\Debug\net8.0\ref\GestaoFuncionarios.Module.dll
 C:\Users\Gabriel Dias\source\repos\GestaoFuncionarios\GestaoFuncionarios.Module\bin\Debug\net8.0\GestaoFuncionarios.Module.runtimeconfig.json
 C:\Users\Gabriel Dias\source\repos\GestaoFuncionarios\GestaoFuncionarios.Module\obj\Debug\net8.0\GestaoFuncionarios.Module.genruntimeconfig.cache
+C:\Users\gabriel.dias\source\repos\GestaoFuncionarios-XAF\GestaoFuncionarios.Module\bin\Debug\net8.0\GestaoFuncionarios.Module.deps.json
+C:\Users\gabriel.dias\source\repos\GestaoFuncionarios-XAF\GestaoFuncionarios.Module\bin\Debug\net8.0\GestaoFuncionarios.Module.runtimeconfig.json
+C:\Users\gabriel.dias\source\repos\GestaoFuncionarios-XAF\GestaoFuncionarios.Module\bin\Debug\net8.0\GestaoFuncionarios.Module.dll
+C:\Users\gabriel.dias\source\repos\GestaoFuncionarios-XAF\GestaoFuncionarios.Module\bin\Debug\net8.0\GestaoFuncionarios.Module.pdb
+C:\Users\gabriel.dias\source\repos\GestaoFuncionarios-XAF\GestaoFuncionarios.Module\obj\Debug\net8.0\GestaoFuncionarios.Module.csproj.AssemblyReference.cache
+C:\Users\gabriel.dias\source\repos\GestaoFuncionarios-XAF\GestaoFuncionarios.Module\obj\Debug\net8.0\GestaoFuncionarios.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.dias\source\repos\GestaoFuncionarios-XAF\GestaoFuncionarios.Module\obj\Debug\net8.0\GestaoFuncionarios.Module.AssemblyInfoInputs.cache
+C:\Users\gabriel.dias\source\repos\GestaoFuncionarios-XAF\GestaoFuncionarios.Module\obj\Debug\net8.0\GestaoFuncionarios.Module.AssemblyInfo.cs
+C:\Users\gabriel.dias\source\repos\GestaoFuncionarios-XAF\GestaoFuncionarios.Module\obj\Debug\net8.0\GestaoFuncionarios.Module.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.dias\source\repos\GestaoFuncionarios-XAF\GestaoFuncionarios.Module\obj\Debug\net8.0\GestaoFuncionarios.Module.sourcelink.json
+C:\Users\gabriel.dias\source\repos\GestaoFuncionarios-XAF\GestaoFuncionarios.Module\obj\Debug\net8.0\GestaoFuncionarios.Module.dll
+C:\Users\gabriel.dias\source\repos\GestaoFuncionarios-XAF\GestaoFuncionarios.Module\obj\Debug\net8.0\refint\GestaoFuncionarios.Module.dll
+C:\Users\gabriel.dias\source\repos\GestaoFuncionarios-XAF\GestaoFuncionarios.Module\obj\Debug\net8.0\GestaoFuncionarios.Module.pdb
+C:\Users\gabriel.dias\source\repos\GestaoFuncionarios-XAF\GestaoFuncionarios.Module\obj\Debug\net8.0\GestaoFuncionarios.Module.genruntimeconfig.cache
+C:\Users\gabriel.dias\source\repos\GestaoFuncionarios-XAF\GestaoFuncionarios.Module\obj\Debug\net8.0\ref\GestaoFuncionarios.Module.dll

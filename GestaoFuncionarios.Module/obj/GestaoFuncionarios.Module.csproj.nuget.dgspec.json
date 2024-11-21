@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel Dias\\source\\repos\\GestaoFuncionarios\\GestaoFuncionarios.Module\\GestaoFuncionarios.Module.csproj": {}
+    "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Module\\GestaoFuncionarios.Module.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel Dias\\source\\repos\\GestaoFuncionarios\\GestaoFuncionarios.Module\\GestaoFuncionarios.Module.csproj": {
+    "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Module\\GestaoFuncionarios.Module.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel Dias\\source\\repos\\GestaoFuncionarios\\GestaoFuncionarios.Module\\GestaoFuncionarios.Module.csproj",
+        "projectUniqueName": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Module\\GestaoFuncionarios.Module.csproj",
         "projectName": "GestaoFuncionarios.Module",
-        "projectPath": "C:\\Users\\Gabriel Dias\\source\\repos\\GestaoFuncionarios\\GestaoFuncionarios.Module\\GestaoFuncionarios.Module.csproj",
-        "packagesPath": "C:\\Users\\Gabriel Dias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel Dias\\source\\repos\\GestaoFuncionarios\\GestaoFuncionarios.Module\\obj\\",
+        "projectPath": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Module\\GestaoFuncionarios.Module.csproj",
+        "packagesPath": "C:\\Users\\gabriel.dias\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Module\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Gabriel Dias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gabriel.dias\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 24.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

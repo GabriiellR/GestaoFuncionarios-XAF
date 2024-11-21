@@ -25,10 +25,111 @@ namespace GestaoFuncionarios.Module.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("FuncionarioTarefa", b =>
+                {
+                    b.Property<Guid>("FuncionariosID")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid>("TarefasID")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.HasKey("FuncionariosID", "TarefasID");
+
+                    b.HasIndex("TarefasID");
+
+                    b.ToTable("FuncionarioTarefa");
+                });
+
+            modelBuilder.Entity("GestaoFuncionarios.Module.BusinessObjects.Cargo", b =>
+                {
+                    b.Property<Guid>("ID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("Nome")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("ID");
+
+                    b.ToTable("Cargos");
+                });
+
+            modelBuilder.Entity("GestaoFuncionarios.Module.BusinessObjects.Departamento", b =>
+                {
+                    b.Property<Guid>("ID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("Nome")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("ID");
+
+                    b.ToTable("Departamento");
+                });
+
+            modelBuilder.Entity("GestaoFuncionarios.Module.BusinessObjects.Pagamento", b =>
+                {
+                    b.Property<Guid>("ID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<double>("Hours")
+                        .HasColumnType("float");
+
+                    b.Property<double>("Rate")
+                        .HasColumnType("float");
+
+                    b.HasKey("ID");
+
+                    b.ToTable("Pagamentos");
+                });
+
+            modelBuilder.Entity("GestaoFuncionarios.Module.BusinessObjects.Tarefa", b =>
+                {
+                    b.Property<Guid>("ID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("Assunto")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime?>("DataFinalizacao")
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime?>("DataInicio")
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime?>("DataVencimento")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Descricao")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("PercentualConclusao")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Prioridade")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Status")
+                        .HasColumnType("int");
+
+                    b.HasKey("ID");
+
+                    b.ToTable("Tarefas");
+                });
+
             modelBuilder.Entity("MySolution.Module.BusinessObjects.Funcionario", b =>
                 {
                     b.Property<Guid>("ID")
                         .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid?>("CargoID")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<Guid?>("DepartamentoID")
                         .HasColumnType("uniqueidentifier");
 
                     b.Property<string>("Email")
@@ -45,7 +146,53 @@ namespace GestaoFuncionarios.Module.Migrations
 
                     b.HasKey("ID");
 
+                    b.HasIndex("CargoID");
+
+                    b.HasIndex("DepartamentoID");
+
                     b.ToTable("Funcionario");
+                });
+
+            modelBuilder.Entity("FuncionarioTarefa", b =>
+                {
+                    b.HasOne("MySolution.Module.BusinessObjects.Funcionario", null)
+                        .WithMany()
+                        .HasForeignKey("FuncionariosID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("GestaoFuncionarios.Module.BusinessObjects.Tarefa", null)
+                        .WithMany()
+                        .HasForeignKey("TarefasID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("MySolution.Module.BusinessObjects.Funcionario", b =>
+                {
+                    b.HasOne("GestaoFuncionarios.Module.BusinessObjects.Cargo", "Cargo")
+                        .WithMany("Funcionarios")
+                        .HasForeignKey("CargoID")
+                        .OnDelete(DeleteBehavior.SetNull);
+
+                    b.HasOne("GestaoFuncionarios.Module.BusinessObjects.Departamento", "Departamento")
+                        .WithMany("Funcionarios")
+                        .HasForeignKey("DepartamentoID")
+                        .OnDelete(DeleteBehavior.SetNull);
+
+                    b.Navigation("Cargo");
+
+                    b.Navigation("Departamento");
+                });
+
+            modelBuilder.Entity("GestaoFuncionarios.Module.BusinessObjects.Cargo", b =>
+                {
+                    b.Navigation("Funcionarios");
+                });
+
+            modelBuilder.Entity("GestaoFuncionarios.Module.BusinessObjects.Departamento", b =>
+                {
+                    b.Navigation("Funcionarios");
                 });
 #pragma warning restore 612, 618
         }

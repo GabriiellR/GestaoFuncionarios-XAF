@@ -1,10 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Gabriel Dias\\source\\repos\\GestaoFuncionarios\\",
+  "WorkspaceRootPath": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C797FEBB-B07C-4775-A313-B5066C908318}|GestaoFuncionarios.Module\\GestaoFuncionarios.Module.csproj|c:\\users\\gabriel dias\\source\\repos\\gestaofuncionarios\\gestaofuncionarios.module\\businessobjects\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C797FEBB-B07C-4775-A313-B5066C908318}|GestaoFuncionarios.Module\\GestaoFuncionarios.Module.csproj|c:\\users\\gabriel.dias\\source\\repos\\gestaofuncionarios-xaf\\gestaofuncionarios.module\\controllers\\limparcontatotaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C797FEBB-B07C-4775-A313-B5066C908318}|GestaoFuncionarios.Module\\GestaoFuncionarios.Module.csproj|solutionrelative:gestaofuncionarios.module\\controllers\\limparcontatotaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C797FEBB-B07C-4775-A313-B5066C908318}|GestaoFuncionarios.Module\\GestaoFuncionarios.Module.csproj|c:\\users\\gabriel.dias\\source\\repos\\gestaofuncionarios-xaf\\gestaofuncionarios.module\\controllers\\encontrarpeloassuntocontroller.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C797FEBB-B07C-4775-A313-B5066C908318}|GestaoFuncionarios.Module\\GestaoFuncionarios.Module.csproj|solutionrelative:gestaofuncionarios.module\\controllers\\encontrarpeloassuntocontroller.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C797FEBB-B07C-4775-A313-B5066C908318}|GestaoFuncionarios.Module\\GestaoFuncionarios.Module.csproj|c:\\users\\gabriel.dias\\source\\repos\\gestaofuncionarios-xaf\\gestaofuncionarios.module\\controllers\\encontrarpeloassuntocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C797FEBB-B07C-4775-A313-B5066C908318}|GestaoFuncionarios.Module\\GestaoFuncionarios.Module.csproj|solutionrelative:gestaofuncionarios.module\\controllers\\encontrarpeloassuntocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C797FEBB-B07C-4775-A313-B5066C908318}|GestaoFuncionarios.Module\\GestaoFuncionarios.Module.csproj|c:\\users\\gabriel.dias\\source\\repos\\gestaofuncionarios-xaf\\gestaofuncionarios.module\\businessobjects\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C797FEBB-B07C-4775-A313-B5066C908318}|GestaoFuncionarios.Module\\GestaoFuncionarios.Module.csproj|solutionrelative:gestaofuncionarios.module\\businessobjects\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C797FEBB-B07C-4775-A313-B5066C908318}|GestaoFuncionarios.Module\\GestaoFuncionarios.Module.csproj|c:\\users\\gabriel.dias\\source\\repos\\gestaofuncionarios-xaf\\gestaofuncionarios.module\\migrations\\20241121161921_adicao_pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C797FEBB-B07C-4775-A313-B5066C908318}|GestaoFuncionarios.Module\\GestaoFuncionarios.Module.csproj|solutionrelative:gestaofuncionarios.module\\migrations\\20241121161921_adicao_pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C797FEBB-B07C-4775-A313-B5066C908318}|GestaoFuncionarios.Module\\GestaoFuncionarios.Module.csproj|c:\\users\\gabriel.dias\\source\\repos\\gestaofuncionarios-xaf\\gestaofuncionarios.module\\businessobjects\\gestaofuncionariosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C797FEBB-B07C-4775-A313-B5066C908318}|GestaoFuncionarios.Module\\GestaoFuncionarios.Module.csproj|solutionrelative:gestaofuncionarios.module\\businessobjects\\gestaofuncionariosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C797FEBB-B07C-4775-A313-B5066C908318}|GestaoFuncionarios.Module\\GestaoFuncionarios.Module.csproj|c:\\users\\gabriel.dias\\source\\repos\\gestaofuncionarios-xaf\\gestaofuncionarios.module\\businessobjects\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C797FEBB-B07C-4775-A313-B5066C908318}|GestaoFuncionarios.Module\\GestaoFuncionarios.Module.csproj|solutionrelative:gestaofuncionarios.module\\businessobjects\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C797FEBB-B07C-4775-A313-B5066C908318}|GestaoFuncionarios.Module\\GestaoFuncionarios.Module.csproj|c:\\users\\gabriel.dias\\source\\repos\\gestaofuncionarios-xaf\\gestaofuncionarios.module\\businessobjects\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C797FEBB-B07C-4775-A313-B5066C908318}|GestaoFuncionarios.Module\\GestaoFuncionarios.Module.csproj|solutionrelative:gestaofuncionarios.module\\businessobjects\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C797FEBB-B07C-4775-A313-B5066C908318}|GestaoFuncionarios.Module\\GestaoFuncionarios.Module.csproj|c:\\users\\gabriel.dias\\source\\repos\\gestaofuncionarios-xaf\\gestaofuncionarios.module\\businessobjects\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C797FEBB-B07C-4775-A313-B5066C908318}|GestaoFuncionarios.Module\\GestaoFuncionarios.Module.csproj|solutionrelative:gestaofuncionarios.module\\businessobjects\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C797FEBB-B07C-4775-A313-B5066C908318}|GestaoFuncionarios.Module\\GestaoFuncionarios.Module.csproj|c:\\users\\gabriel.dias\\source\\repos\\gestaofuncionarios-xaf\\gestaofuncionarios.module\\businessobjects\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C797FEBB-B07C-4775-A313-B5066C908318}|GestaoFuncionarios.Module\\GestaoFuncionarios.Module.csproj|solutionrelative:gestaofuncionarios.module\\businessobjects\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C797FEBB-B07C-4775-A313-B5066C908318}|GestaoFuncionarios.Module\\GestaoFuncionarios.Module.csproj|c:\\users\\gabriel.dias\\source\\repos\\gestaofuncionarios-xaf\\gestaofuncionarios.module\\migrations\\20241121120743_adicaodepartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C797FEBB-B07C-4775-A313-B5066C908318}|GestaoFuncionarios.Module\\GestaoFuncionarios.Module.csproj|solutionrelative:gestaofuncionarios.module\\migrations\\20241121120743_adicaodepartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,32 +54,144 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EncontrarPeloAssuntoController.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Module\\Controllers\\EncontrarPeloAssuntoController.Designer.cs",
+              "RelativeDocumentMoniker": "GestaoFuncionarios.Module\\Controllers\\EncontrarPeloAssuntoController.Designer.cs",
+              "ToolTip": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Module\\Controllers\\EncontrarPeloAssuntoController.Designer.cs",
+              "RelativeToolTip": "GestaoFuncionarios.Module\\Controllers\\EncontrarPeloAssuntoController.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:12:03.576Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EncontrarPeloAssuntoController.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Module\\Controllers\\EncontrarPeloAssuntoController.cs",
+              "RelativeDocumentMoniker": "GestaoFuncionarios.Module\\Controllers\\EncontrarPeloAssuntoController.cs",
+              "ToolTip": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Module\\Controllers\\EncontrarPeloAssuntoController.cs",
+              "RelativeToolTip": "GestaoFuncionarios.Module\\Controllers\\EncontrarPeloAssuntoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T18:10:47.294Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Funcionario.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel Dias\\source\\repos\\GestaoFuncionarios\\GestaoFuncionarios.Module\\BusinessObjects\\Funcionario.cs",
-              "RelativeDocumentMoniker": "GestaoFuncionarios.Module\\BusinessObjects\\Funcionario.cs",
-              "ToolTip": "C:\\Users\\Gabriel Dias\\source\\repos\\GestaoFuncionarios\\GestaoFuncionarios.Module\\BusinessObjects\\Funcionario.cs",
-              "RelativeToolTip": "GestaoFuncionarios.Module\\BusinessObjects\\Funcionario.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Title": "LimparContatoTaskController.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Module\\Controllers\\LimparContatoTaskController.cs",
+              "RelativeDocumentMoniker": "GestaoFuncionarios.Module\\Controllers\\LimparContatoTaskController.cs",
+              "ToolTip": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Module\\Controllers\\LimparContatoTaskController.cs",
+              "RelativeToolTip": "GestaoFuncionarios.Module\\Controllers\\LimparContatoTaskController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T00:56:25.761Z",
+              "WhenOpened": "2024-11-21T17:46:26.505Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241121161921_Adicao_Pagamento.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Module\\Migrations\\20241121161921_Adicao_Pagamento.cs",
+              "RelativeDocumentMoniker": "GestaoFuncionarios.Module\\Migrations\\20241121161921_Adicao_Pagamento.cs",
+              "ToolTip": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Module\\Migrations\\20241121161921_Adicao_Pagamento.cs",
+              "RelativeToolTip": "GestaoFuncionarios.Module\\Migrations\\20241121161921_Adicao_Pagamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:19:21.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pagamento.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Module\\BusinessObjects\\Pagamento.cs",
+              "RelativeDocumentMoniker": "GestaoFuncionarios.Module\\BusinessObjects\\Pagamento.cs",
+              "ToolTip": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Module\\BusinessObjects\\Pagamento.cs",
+              "RelativeToolTip": "GestaoFuncionarios.Module\\BusinessObjects\\Pagamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:15:19.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cargo.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Module\\BusinessObjects\\Cargo.cs",
+              "RelativeDocumentMoniker": "GestaoFuncionarios.Module\\BusinessObjects\\Cargo.cs",
+              "ToolTip": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Module\\BusinessObjects\\Cargo.cs",
+              "RelativeToolTip": "GestaoFuncionarios.Module\\BusinessObjects\\Cargo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:43:13.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Module\\BusinessObjects\\Funcionario.cs",
+              "RelativeDocumentMoniker": "GestaoFuncionarios.Module\\BusinessObjects\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Module\\BusinessObjects\\Funcionario.cs",
+              "RelativeToolTip": "GestaoFuncionarios.Module\\BusinessObjects\\Funcionario.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:35:16.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tarefa.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Module\\BusinessObjects\\Tarefa.cs",
+              "RelativeDocumentMoniker": "GestaoFuncionarios.Module\\BusinessObjects\\Tarefa.cs",
+              "ToolTip": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Module\\BusinessObjects\\Tarefa.cs",
+              "RelativeToolTip": "GestaoFuncionarios.Module\\BusinessObjects\\Tarefa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:19:56.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241121120743_AdicaoDepartamento.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Module\\Migrations\\20241121120743_AdicaoDepartamento.cs",
+              "RelativeDocumentMoniker": "GestaoFuncionarios.Module\\Migrations\\20241121120743_AdicaoDepartamento.cs",
+              "ToolTip": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Module\\Migrations\\20241121120743_AdicaoDepartamento.cs",
+              "RelativeToolTip": "GestaoFuncionarios.Module\\Migrations\\20241121120743_AdicaoDepartamento.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:07:44.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GestaoFuncionariosDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Module\\BusinessObjects\\GestaoFuncionariosDbContext.cs",
+              "RelativeDocumentMoniker": "GestaoFuncionarios.Module\\BusinessObjects\\GestaoFuncionariosDbContext.cs",
+              "ToolTip": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Module\\BusinessObjects\\GestaoFuncionariosDbContext.cs",
+              "RelativeToolTip": "GestaoFuncionarios.Module\\BusinessObjects\\GestaoFuncionariosDbContext.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwC8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:06:33.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Module\\BusinessObjects\\Departamento.cs",
+              "RelativeDocumentMoniker": "GestaoFuncionarios.Module\\BusinessObjects\\Departamento.cs",
+              "ToolTip": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Module\\BusinessObjects\\Departamento.cs",
+              "RelativeToolTip": "GestaoFuncionarios.Module\\BusinessObjects\\Departamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:02:55.178Z"
             }
           ]
         }

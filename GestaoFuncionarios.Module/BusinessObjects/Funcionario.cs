@@ -2,13 +2,15 @@
 using DevExpress.ExpressApp.DC;
 using DevExpress.Persistent.Base;
 using DevExpress.Persistent.BaseImpl.EF;
+using GestaoFuncionarios.Module.BusinessObjects;
+using System.Collections.ObjectModel;
 using System.ComponentModel;
 
 namespace MySolution.Module.BusinessObjects;
 
 [DefaultClassOptions]
 [ObjectCaptionFormat("{0:NomeCompleto}")]
-//[DefaultProperty(nameof(NomeCompleto))]
+[DefaultProperty(nameof(NomeCompleto))]
 public class Funcionario : BaseObject
 {
     public virtual String Nome { get; set; }
@@ -21,4 +23,7 @@ public class Funcionario : BaseObject
         get { return ObjectFormatter.Format($"{Nome} {Sobrenome} {UltimoNome}", this, EmptyEntriesMode.RemoveDelimiterWhenEntryIsEmpty); }
     }
 
+    public virtual Departamento Departamento { get; set; }
+    public virtual Cargo Cargo { get; set; }
+    public virtual IList<Tarefa> Tarefas { get; set; } = new ObservableCollection<Tarefa>();
 }

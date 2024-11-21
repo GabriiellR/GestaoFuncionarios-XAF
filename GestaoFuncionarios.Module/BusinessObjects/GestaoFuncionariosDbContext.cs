@@ -1,10 +1,7 @@
-﻿using DevExpress.ExpressApp.EFCore.Updating;
+﻿using DevExpress.ExpressApp.Design;
+using DevExpress.ExpressApp.EFCore.DesignTime;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
-using DevExpress.Persistent.BaseImpl.EF.PermissionPolicy;
-using DevExpress.Persistent.BaseImpl.EF;
-using DevExpress.ExpressApp.Design;
-using DevExpress.ExpressApp.EFCore.DesignTime;
 using MySolution.Module.BusinessObjects;
 
 namespace GestaoFuncionarios.Module.BusinessObjects;
@@ -41,6 +38,10 @@ public class GestaoFuncionariosEFCoreDbContext : DbContext
     {
     }
     public DbSet<Funcionario> Funcionario { get; set; }
+    public DbSet<Departamento> Departamento { get; set; }
+    public DbSet<Tarefa> Tarefas { get; set; }
+    public DbSet<Cargo> Cargos { get; set; }
+    public DbSet<Pagamento> Pagamentos { get; set; }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

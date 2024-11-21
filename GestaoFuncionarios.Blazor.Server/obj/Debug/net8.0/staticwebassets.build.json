@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XK2YiTQPAJuCavWDibTWjCVdQbqRoFvEPW3dsDi8XSk=",
+  "Hash": "lKpI1fAJhHtnC2D4ayADgOxeSaD4j2wx523CD0nVkTI=",
   "Source": "GestaoFuncionarios.Blazor.Server",
   "BasePath": "_content/GestaoFuncionarios.Blazor.Server",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "GestaoFuncionarios.Blazor.Server\\wwwroot",
       "Source": "GestaoFuncionarios.Blazor.Server",
-      "ContentRoot": "C:\\Users\\Gabriel Dias\\source\\repos\\GestaoFuncionarios\\GestaoFuncionarios.Blazor.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Blazor.Server\\wwwroot\\",
       "BasePath": "_content/GestaoFuncionarios.Blazor.Server",
       "Pattern": "**"
     }
@@ -4700,10 +4700,10 @@
       "OriginalItemSpec": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.expressapp.blazor\\24.1.7\\staticwebassets\\styles.css"
     },
     {
-      "Identity": "C:\\Users\\Gabriel Dias\\source\\repos\\GestaoFuncionarios\\GestaoFuncionarios.Blazor.Server\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Blazor.Server\\wwwroot\\css\\site.css",
       "SourceId": "GestaoFuncionarios.Blazor.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gabriel Dias\\source\\repos\\GestaoFuncionarios\\GestaoFuncionarios.Blazor.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Blazor.Server\\wwwroot\\",
       "BasePath": "_content/GestaoFuncionarios.Blazor.Server",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -4721,10 +4721,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Gabriel Dias\\source\\repos\\GestaoFuncionarios\\GestaoFuncionarios.Blazor.Server\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Blazor.Server\\wwwroot\\favicon.ico",
       "SourceId": "GestaoFuncionarios.Blazor.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gabriel Dias\\source\\repos\\GestaoFuncionarios\\GestaoFuncionarios.Blazor.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Blazor.Server\\wwwroot\\",
       "BasePath": "_content/GestaoFuncionarios.Blazor.Server",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -4742,10 +4742,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Gabriel Dias\\source\\repos\\GestaoFuncionarios\\GestaoFuncionarios.Blazor.Server\\wwwroot\\images\\Logo.svg",
+      "Identity": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Blazor.Server\\wwwroot\\images\\Logo.svg",
       "SourceId": "GestaoFuncionarios.Blazor.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gabriel Dias\\source\\repos\\GestaoFuncionarios\\GestaoFuncionarios.Blazor.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Blazor.Server\\wwwroot\\",
       "BasePath": "_content/GestaoFuncionarios.Blazor.Server",
       "RelativePath": "images/Logo#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -4763,10 +4763,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Logo.svg"
     },
     {
-      "Identity": "C:\\Users\\Gabriel Dias\\source\\repos\\GestaoFuncionarios\\GestaoFuncionarios.Blazor.Server\\wwwroot\\images\\SplashScreen.svg",
+      "Identity": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Blazor.Server\\wwwroot\\images\\SplashScreen.svg",
       "SourceId": "GestaoFuncionarios.Blazor.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gabriel Dias\\source\\repos\\GestaoFuncionarios\\GestaoFuncionarios.Blazor.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Blazor.Server\\wwwroot\\",
       "BasePath": "_content/GestaoFuncionarios.Blazor.Server",
       "RelativePath": "images/SplashScreen#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -13038,7 +13038,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\Gabriel Dias\\source\\repos\\GestaoFuncionarios\\GestaoFuncionarios.Blazor.Server\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Blazor.Server\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13059,7 +13059,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 00:51:47 GMT"
+          "Value": "Thu, 21 Nov 2024 11:52:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13075,7 +13075,7 @@
     },
     {
       "Route": "css/site.t2nfkdid3o.css",
-      "AssetFile": "C:\\Users\\Gabriel Dias\\source\\repos\\GestaoFuncionarios\\GestaoFuncionarios.Blazor.Server\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Blazor.Server\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13096,7 +13096,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 00:51:47 GMT"
+          "Value": "Thu, 21 Nov 2024 11:52:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13120,7 +13120,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\Gabriel Dias\\source\\repos\\GestaoFuncionarios\\GestaoFuncionarios.Blazor.Server\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Blazor.Server\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13141,7 +13141,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 00:51:47 GMT"
+          "Value": "Thu, 21 Nov 2024 11:52:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13157,7 +13157,7 @@
     },
     {
       "Route": "favicon.r1m4w9uxbn.ico",
-      "AssetFile": "C:\\Users\\Gabriel Dias\\source\\repos\\GestaoFuncionarios\\GestaoFuncionarios.Blazor.Server\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Blazor.Server\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13178,7 +13178,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 00:51:47 GMT"
+          "Value": "Thu, 21 Nov 2024 11:52:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13202,7 +13202,7 @@
     },
     {
       "Route": "images/Logo.pju3qj9mur.svg",
-      "AssetFile": "C:\\Users\\Gabriel Dias\\source\\repos\\GestaoFuncionarios\\GestaoFuncionarios.Blazor.Server\\wwwroot\\images\\Logo.svg",
+      "AssetFile": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Blazor.Server\\wwwroot\\images\\Logo.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13223,7 +13223,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 00:51:47 GMT"
+          "Value": "Thu, 21 Nov 2024 11:52:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13247,7 +13247,7 @@
     },
     {
       "Route": "images/Logo.svg",
-      "AssetFile": "C:\\Users\\Gabriel Dias\\source\\repos\\GestaoFuncionarios\\GestaoFuncionarios.Blazor.Server\\wwwroot\\images\\Logo.svg",
+      "AssetFile": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Blazor.Server\\wwwroot\\images\\Logo.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13268,7 +13268,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 00:51:47 GMT"
+          "Value": "Thu, 21 Nov 2024 11:52:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13284,7 +13284,7 @@
     },
     {
       "Route": "images/SplashScreen.03px9c1q5v.svg",
-      "AssetFile": "C:\\Users\\Gabriel Dias\\source\\repos\\GestaoFuncionarios\\GestaoFuncionarios.Blazor.Server\\wwwroot\\images\\SplashScreen.svg",
+      "AssetFile": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Blazor.Server\\wwwroot\\images\\SplashScreen.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13305,7 +13305,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 00:51:47 GMT"
+          "Value": "Thu, 21 Nov 2024 11:52:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13329,7 +13329,7 @@
     },
     {
       "Route": "images/SplashScreen.svg",
-      "AssetFile": "C:\\Users\\Gabriel Dias\\source\\repos\\GestaoFuncionarios\\GestaoFuncionarios.Blazor.Server\\wwwroot\\images\\SplashScreen.svg",
+      "AssetFile": "C:\\Users\\gabriel.dias\\source\\repos\\GestaoFuncionarios-XAF\\GestaoFuncionarios.Blazor.Server\\wwwroot\\images\\SplashScreen.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13350,7 +13350,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Nov 2024 00:51:47 GMT"
+          "Value": "Thu, 21 Nov 2024 11:52:59 GMT"
         },
         {
           "Name": "Cache-Control",

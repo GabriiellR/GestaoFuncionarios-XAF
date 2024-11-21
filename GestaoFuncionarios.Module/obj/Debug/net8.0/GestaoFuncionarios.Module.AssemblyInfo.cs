@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestaoFuncionarios.Module")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1085f8ce869814283a1252bae6ecc1798ae49f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestaoFuncionarios.Module")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestaoFuncionarios.Module")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.*")]
