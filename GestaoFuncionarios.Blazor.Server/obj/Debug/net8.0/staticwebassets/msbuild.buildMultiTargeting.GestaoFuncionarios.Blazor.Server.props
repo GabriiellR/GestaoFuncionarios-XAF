@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GestaoFuncionarios.Blazor.Server.props" />
+</Project>
